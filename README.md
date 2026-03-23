@@ -15,7 +15,7 @@
 
 ## 🌟 About This Project
 
-**OpenClaw Top 100** is a curated collection of the 100 most essential, high-quality skills for OpenClaw agents. Think of it like a premium warehouse store — fewer SKUs, but every single one is a best-in-class pick. Instead of drowning in 400+ options, you get exactly what you need to get started fast and get things done.
+**OpenClaw Top 100** is a curated collection of the 100 most essential, high-quality skills for OpenClaw agents. Think of it like a premium warehouse store — fewer SKUs, but every single one is a best-in-class pick. Instead of drowning in 7000+ options, you get exactly what you need to get started fast and get things done.
 
 > **Philosophy:** 1–2 top skills per category. No duplicates, no noise. Just the essentials.
 
