@@ -27,13 +27,13 @@ This list is **dynamic** — it is reviewed and updated monthly based on communi
 
 ```bash
 # Clone the repository
-git clone https://github.com/LeoYeAI/openclaw-top100.git
+git clone https://github.com/LeoYeAI/openclaw-top100-skills.git
 
 # Copy a specific skill to your OpenClaw workspace
-cp -r openclaw-top100/skills/<skill-name> ~/.openclaw/workspace/skills/
+cp -r openclaw-top100-skills/skills/<skill-name> ~/.openclaw/workspace/skills/
 
 # Or install all 100 skills at once
-cp -r openclaw-top100/skills/* ~/.openclaw/workspace/skills/
+cp -r openclaw-top100-skills/skills/* ~/.openclaw/workspace/skills/
 ```
 
 ---

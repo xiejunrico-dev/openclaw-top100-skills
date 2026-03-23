@@ -106,7 +106,7 @@ def generate_en() -> str:
         '\nThis list is **dynamic** — reviewed and updated monthly.\n',
         '\n---\n',
         '\n## 🚀 Quick Install\n',
-        '\n```bash\ngit clone https://github.com/LeoYeAI/openclaw-top100.git\ncp -r openclaw-top100/skills/* ~/.openclaw/workspace/skills/\n```\n',
+        '\n```bash\ngit clone https://github.com/LeoYeAI/openclaw-top100-skills.git\ncp -r openclaw-top100-skills/skills/* ~/.openclaw/workspace/skills/\n```\n',
         f'\n---\n\n## 🗂️ Skill Index ({total} Skills)\n',
     ]
 
@@ -155,7 +155,7 @@ def generate_zh() -> str:
         '\n本列表是**动态的**——每月审查和更新。\n',
         '\n---\n',
         '\n## 🚀 快速安装\n',
-        '\n```bash\ngit clone https://github.com/LeoYeAI/openclaw-top100.git\ncp -r openclaw-top100/skills/* ~/.openclaw/workspace/skills/\n```\n',
+        '\n```bash\ngit clone https://github.com/LeoYeAI/openclaw-top100-skills.git\ncp -r openclaw-top100-skills/skills/* ~/.openclaw/workspace/skills/\n```\n',
         f'\n---\n\n## 🗂️ 技能索引（{total} 个技能）\n',
     ]
 

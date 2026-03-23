@@ -27,13 +27,13 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/LeoYeAI/openclaw-top100.git
+git clone https://github.com/LeoYeAI/openclaw-top100-skills.git
 
 # 复制单个技能到 OpenClaw 工作区
-cp -r openclaw-top100/skills/<技能名称> ~/.openclaw/workspace/skills/
+cp -r openclaw-top100-skills/skills/<技能名称> ~/.openclaw/workspace/skills/
 
 # 或一次性安装全部 100 个技能
-cp -r openclaw-top100/skills/* ~/.openclaw/workspace/skills/
+cp -r openclaw-top100-skills/skills/* ~/.openclaw/workspace/skills/
 ```
 
 ---
